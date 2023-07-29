@@ -84,13 +84,13 @@
   "banners": [
     {
       "id": 1,
-      "image": "moda_street.jpg",
+      "imagem": "moda_street.jpg",
       "texto": "Moda Street",
       "span": ""
     },
     {
       "id": 2,
-      "image": "destaque_do_mes.jpg",
+      "imagem": "destaque_do_mes.jpg",
       "texto": "Destaque ",
       "span": "do Mês"
     }
